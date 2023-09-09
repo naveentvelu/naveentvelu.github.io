@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Software Development Intern"
+skills: "Django, Git, Python, Selenium, Web Development"
+date:   2018-05-01 22:21:59 +00:00
+image: /images/logo_iitb.png
+categories: work
+location: "Indian Institute of Technology Bombay, Mumbai, India"
+supervisors: "Prof. D B Phatak, Mr. Nagesh Karmali"
+code: "https://github.com/Content-Tools-Team"
+---
+
+The Collaborative Communities portal saw significant improvements through the introduction of 
+real-time collaborative editing using Etherpad, fostering enhanced teamwork for article creation.
+An interactive content creation feature was seamlessly integrated into the platform with H5P, 
+providing users with the ability to enhance video engagement through quizzes 
+and interactive elements.
+

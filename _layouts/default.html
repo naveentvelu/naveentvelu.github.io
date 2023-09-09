@@ -35,15 +35,20 @@
                 Naveen Thangavelu
               </h1>
               <p>
-                I am a Master of Science in Applied Computing Student at the University of Toronto. 
-                I am interested in the applications of Machine Learning and AI and their impact on society.
+                I am a passionate Master of Science in Applied Computing student at the
+                University of Toronto. I'm really excited about the ways Machine Learning and 
+                Artificial Intelligence (AI) can make a big difference in our world.
               </p>
               <p>
-                I am currently working at Bluedot as a Applied Research Intern. I am working on harnessing the power of 
-                Large Language models to improve the accuracy of the Outbreak Intelligence Platform.
+                Presently, I am dedicating my skills and knowledge as an Applied Research Intern at Bluedot, 
+                where I am focused on harnessing the immense potential of Large Language models 
+                to enhance the precision and effectiveness of the Outbreak Intelligence Platform.
               </p>
               <p>
-                I am currently looking for full time opportunities in buiding products by effectively leveraging Machine Learning and AI.
+                I'm on the lookout for full-time jobs where I can use my skills in 
+                Machine Learning and AI to create useful products. 
+                I'm really passionate about AI and Software Engineering, 
+                and I want to use them to have a positive impact on society.
               </p>
               <p style="text-align:center">
                 <a target="_blank" href="https://mailhide.io/e/c9zlkznx">Email</a> &nbsp;/&nbsp;
@@ -60,7 +65,7 @@
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
-              <h2>Research</h2>
+              <h2>Work Experience</h2>
               <p>
 
               </p>
@@ -71,7 +76,7 @@
 
           {% for post in site.posts %}
           {% for cat in post.categories %}
-          {% if cat == 'research' %}
+          {% if cat == 'work' %}
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
@@ -79,10 +84,10 @@
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>{{post.title}}</h3>
               <br>
-              {{post.authors}}
+              {{post.skills}}
 
               <br>
-              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+              <em>{{post.location}}</em>, {{ post.date | date: "%Y-%m" }}
               <br>
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> /
