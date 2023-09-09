@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Software Development Intern"
+skills: "Azure, Terraform, Git, Node.js, SQL"
+start_date:   2019-05-01 00:00:00 +00:00
+end_date:   2019-07-01 00:00:00 +00:00
+image: /images/logo_optum.png
+categories: work
+location: "Optum (United Health Group), Hyderabad, India"
+supervisors: "Indu Teja"
+---
+
+- Simplified the process of acquiring virtual machines and software setup for Quality Analysts.
+- Designed a user-friendly interface for analysts to input machine and software requirements 
+and monitor virtual machine statuses in real-time.
+- Drastically shortened environment setup time from around 36 hours to just 1.5 hours, streamlining operations.

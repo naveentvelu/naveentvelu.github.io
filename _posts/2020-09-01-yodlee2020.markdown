@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Senior Software Engineer"
+skills: "Java, JavasScript, Node.js, React.js, Backbone.js, Redux, SQL, Git, REST APIs"
+start_date:   2018-05-01 00:00:00 +00:00
+end_date:   2018-07-01 00:00:00 +00:00
+image: /images/logo_yodlee.png
+categories: work
+location: "Envestnet | Yodlee, Bangalore, India"
+supervisors: "Mr. Prasad Reddy"
+---
+
+- Played a pivotal role in enhancing Fastlink, a consumer account management and verification 
+tool for various financial institutions.
+- Effectively resolved critical client issues during troubleshooting and onboarding calls, 
+leading to notable improvements in client retention rates and service level agreement compliance.
+
