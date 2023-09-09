@@ -10,9 +10,6 @@ supervisors: "Prof. D B Phatak, Mr. Nagesh Karmali"
 code: "https://github.com/Content-Tools-Team"
 ---
 
-The Collaborative Communities portal saw significant improvements through the introduction of 
-real-time collaborative editing using Etherpad, fostering enhanced teamwork for article creation.
-An interactive content creation feature was seamlessly integrated into the platform with H5P, 
-providing users with the ability to enhance video engagement through quizzes 
-and interactive elements.
+- Spearheaded the implementation of real-time collaborative editing using Etherpad on the Collaborative Communities portal, resulting in improved teamwork and efficiency for article creation.
+- Successfully integrated an interactive content creation feature with H5P into the platform, enhancing video engagement by incorporating quizzes and interactive elements.
 
