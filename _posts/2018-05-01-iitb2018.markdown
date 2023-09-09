@@ -2,7 +2,8 @@
 layout: post
 title:  "Software Development Intern"
 skills: "Django, Git, Python, Selenium, Web Development"
-date:   2018-05-01 22:21:59 +00:00
+start_date:   2018-05-01 00:00:00 +00:00
+end_date:   2018-07-01 00:00:00 +00:00
 image: /images/logo_iitb.png
 categories: work
 location: "Indian Institute of Technology Bombay, Mumbai, India"

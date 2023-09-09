@@ -87,7 +87,9 @@
               {{post.skills}}
 
               <br>
-              <em>{{post.location}}</em>, {{ post.date | date: "%Y-%m" }}
+              <em>{{post.location}}</em>
+              <br>
+              {{ post.start_date | date: "%Y-%m" }} - {{ post.end_date | date: "%Y-%m" }}
               <br>
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> /
