@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Interpreting Forecasted Vital Signs Using N-BEATS in Sepsis Patients"
+date:   2023-07-01 21:21:53 +00:00
+image: /images/nbeats.png
+categories: research
+authors: "Anubhav Bhatti, <strong>Naveen Thangavelu</strong>, Marium Hassan, Choongmin Kim, San Lee, Yonghwan Kim, and Jang Yong Kim"
+subtitle: "xAI 2023"
+venue: "The 1st World Conference on eXplainable Artificial Intelligence (xAI 2023)"
+paper: https://arxiv.org/pdf/2306.14016.pdf
+---
+- Investigated the N-BEATS interpretable deep learning forecasting model's capabilities in 
+predicting 3-hour vital signs for sepsis patients in ICU settings.
+- Leveraged the interpretable configuration of N-BEATS to forecast vital sign trends, 
+facilitating a comprehensive understanding of patients' changing conditions and the impact of administered medications on vital signs.
+- Conducted a rigorous evaluation of our methodology using the publicly accessible 
+eICU Collaborative Research Database dataset, employing out-of-sample evaluation criteria.
+

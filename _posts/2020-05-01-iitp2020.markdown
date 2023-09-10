@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Persona aware Response Generation with Emotions"
+date:   2020-05-01 21:21:53 +00:00
+image: /images/paper1.png
+categories: research
+authors: "M. Firdaus, <strong>N. Thangavelu</strong>, A. Ekbal and P. Bhattacharyya"
+subtitle: "IJCNN 2020"
+venue: "International Joint Conference on Neural Networks (IJCNN)"
+paper: https://ieeexplore.ieee.org/document/9207529
+---
+- Created a persona-aware attention framework using encoder-decoder architecture for generating 
+emotionally tailored responses, aligning with provided personality details and conversation history.
+- Enhanced response interactivity and appeal by imbuing emotions, resulting 
+in more human-like and engaging dialogue.
+

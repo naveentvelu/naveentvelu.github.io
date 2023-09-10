@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "I enjoy writing and playing, do you: A Personalized and Emotion Grounded Dialogue Agent using Generative Adversarial Network"
+date:   2022-05-01 21:21:53 +00:00
+image: /images/paper2.png
+categories: research
+authors: "M. Firdaus, <strong>N. Thangavelu</strong>, A. Ekbal and P. Bhattacharyya"
+subtitle: "IEEE Transactions on Affective Computing"
+venue: "IEEE Transactions on Affective Computing"
+paper: https://ieeexplore.ieee.org/document/9722966
+---
+- Developed EP-GAN (Empathy and Persona-aware Generative Adversarial Network), a generative 
+adversarial framework specializing in user-emotion-sensitive and persona-aligned response generation.
+- Utilized memory vectors to encode persona information, integrating them with dialogue history 
+to empower the decoder in crafting contextually relevant responses.
+- Implemented an interactive adversarial learning mechanism to validate the 
+elicitation of user emotion and persona within the generated dialogues.
+
