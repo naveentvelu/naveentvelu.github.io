@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Machine Learning Associate"
+skills: "PyTorch, Time Series Forecasting, Deep Learning"
+start_date:   2023-01-01 00:00:00 +00:00
+end_date:   2023-05-01 00:00:00 +00:00
+image: /images/logo_spass_vector.jpeg
+categories: work
+location: "SpassMed Inc., Toronto, Canada | Vector Institute, Toronto, Canada"
+---
+
+- Developed deep learning models for time series forecasting of medical data to predict the 
+onset of sepsis in patients.
+- Performed data cleaning and preprocessing, feature engineering, and model training 
+from real world datasets from various hospitals.
+

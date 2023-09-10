@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Applied Research Intern"
+skills: "Python, LangChain, OpenAI, NLP, Large Language Models"
+start_date:   2023-05-01 00:00:00 +00:00
+ongoing: "true"
+image: /images/logo_bluedot.jpeg
+categories: work
+location: "BlueDot, Toronto, Canada"
+supervisors: "Prof. Annie Lee, Tim Lambertus"
+---
+
+- Utilized Large Language Models (LLMs) in conjunction with LangChain and OpenAI API to proficiently 
+extract data from diverse news articles.
+- Innovatively designed and implemented a streamlined testing pipeline to assess the LLMs' 
+performance with the extracted data. This initiative resulted in significant time savings, 
+reducing manual testing efforts by 8 hours per testing cycle.
+
