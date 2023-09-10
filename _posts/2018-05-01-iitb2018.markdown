@@ -9,6 +9,8 @@ categories: work
 location: "Indian Institute of Technology Bombay, Mumbai, India"
 supervisors: "Prof. D B Phatak, Mr. Nagesh Karmali"
 code: "https://github.com/Content-Tools-Team"
+paper: "/pdfs/iitb_report.pdf"
+slides: "/pdfs/iitb_slides.pdf"
 ---
 
 - Spearheaded the implementation of real-time collaborative editing using Etherpad on the Collaborative Communities portal, resulting in improved teamwork and efficiency for article creation.

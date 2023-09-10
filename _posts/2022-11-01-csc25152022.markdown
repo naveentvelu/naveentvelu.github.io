@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "An empirical study of Hyperparameter Tuning and Feature encoding Methods for Tree-based Models on Tabular Data"
+date:   2022-11-01 21:21:53 +00:00
+image: /images/csc2515.png
+categories: project
+authors: "<strong>Naveen Thangavelu</strong>, Adeem Jassani, Anusha Prabhudev, Apoorv Dankar"
+course: "CSC2515: Introduction to Machine Learning"
+paper: "/pdfs/csc2515.pdf"
+---
+- Investigated tree-based models from two angles: hyperparameter tuning techniques and categorical 
+feature encoding strategies.
+- The initial phase of the project focused on exploring various hyperparameter tuning methods 
+due to their significant impact on model performance.
+- Conducted empirical evaluations of (a) two Bayesian Hyperparameter tuning variants and 
+(b) the Halving Random Search method, comparing them to the Random Search baseline.
+- In the second phase, the project addressed the challenge of high-cardinality categorical 
+columns by empirically assessing diverse categorical feature encoding methods.
+

@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Coloring Manga Images with Deep Learning: A Comparative Study"
+date:   2023-01-01 21:21:53 +00:00
+image: /images/csc2516.png
+categories: project
+authors: "<strong>Naveen Thangavelu</strong>, Gurman Bhullar, Rajesh Marudhachalam"
+course: "CSC2516: Neural Networks and Deep Learning"
+paper: "/pdfs/csc2516.pdf"
+---
+- Researched automatic colorization, a field with broad applications, including B&W photo 
+restoration, image recoloring, and enhancing grayscale drawings.
+- Focused on automatic colorization in Manga, addressing challenges in manga coloring due to 
+tight production schedules and costs.
+- Leveraged Generative Adversarial Networks (GANs) and Diffusion models to improve manga 
+colorization, aiming to enhance the reading experience and potentially expand the fan base.
+
