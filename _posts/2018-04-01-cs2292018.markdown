@@ -8,6 +8,7 @@ authors: "<strong>Naveen Thangavelu</strong>, Milan Jolly"
 course: "CS229: Innovation Lab"
 venue: "Indian Institute of Technology, Patna"
 paper: "/pdfs/cs229.pdf"
+code: https://github.com/naveentvelu/Movie-Revenue-Predictor
 ---
 - Investigated the intricate factors influencing a movie's revenue, including aspects 
 such as cast, crew, genre, budget, rating, and release timing.
