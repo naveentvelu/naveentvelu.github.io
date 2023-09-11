@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Streamlining Form-Filling: A Centralized Solution to Save Time and Effort"
+date:   2018-11-01 21:21:53 +00:00
+image: /images/cs354.png
+categories: project
+authors: "<strong>Naveen Thangavelu</strong>, R J Srivatsa, Dhanush SR"
+course: "CS355: Database Lab"
+venue: "Indian Institute of Technology, Patna"
+report: "/pdfs/cs355_report.pdf"
+poster: "/pdfs/cs355_poster.pdf"
+---
+- Developed and launched μJ, a platform addressing the unemployment challenge by 
+connecting job seekers with short-term, blue-collar job opportunities, effectively bridging the 
+gap between skilled labor and employers.
+- Pioneered a dual-focused business model, catering to both profit and non-profit sectors, 
+with a commission-based revenue strategy for paid job placements and flexible pricing for MicroJobs.
+- Focused on inclusivity, μJ extends its services to a diverse demographic, serving as a 
+valuable resource for those seeking temporary employment and non-profit organizations 
+in need of skilled labor.
+
