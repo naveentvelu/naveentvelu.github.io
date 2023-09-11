@@ -4,18 +4,17 @@ title:  "Streamlining Form-Filling: A Centralized Solution to Save Time and Effo
 date:   2018-11-01 21:21:53 +00:00
 image: /images/cs354.png
 categories: project
-authors: "<strong>Naveen Thangavelu</strong>, R J Srivatsa, Dhanush SR"
-course: "CS355: Database Lab"
+authors: "<strong>Naveen Thangavelu</strong>, R J Srivatsa"
+course: "CS354: Database"
 venue: "Indian Institute of Technology, Patna"
-report: "/pdfs/cs355_report.pdf"
-poster: "/pdfs/cs355_poster.pdf"
+code: https://github.com/naveentvelu/FormFilling
+video: https://drive.google.com/file/d/1l-UG_q4jKeJd8uLBQQeKlpp7ZhI4etJB/view?usp=sharing
 ---
-- Developed and launched μJ, a platform addressing the unemployment challenge by 
-connecting job seekers with short-term, blue-collar job opportunities, effectively bridging the 
-gap between skilled labor and employers.
-- Pioneered a dual-focused business model, catering to both profit and non-profit sectors, 
-with a commission-based revenue strategy for paid job placements and flexible pricing for MicroJobs.
-- Focused on inclusivity, μJ extends its services to a diverse demographic, serving as a 
-valuable resource for those seeking temporary employment and non-profit organizations 
-in need of skilled labor.
+- Developed a centralized platform in Django and PHP to streamline form filling, eliminating 
+redundant data entry across different forms, resulting in substantial time savings.
+- Introduced "placeholders" in forms, allowing users to input information once and 
+have it populate in other forms automatically, optimizing data management and user efficiency.
+- Designed a single-table database structure for simplified data storage and administration, 
+with the ability to seamlessly integrate new fields, ensuring long-term scalability and 
+effectiveness.
 
