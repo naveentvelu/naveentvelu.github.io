@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Movie Revenue Predictor"
+date:   2018-04-01 21:21:53 +00:00
+image: /images/cs229.png
+categories: project
+authors: "<strong>Naveen Thangavelu</strong>, Milan Jolly"
+course: "CS229: Innovation Lab"
+venue: "Indian Institute of Technology, Patna"
+paper: "/pdfs/cs229.pdf"
+---
+- Investigated the intricate factors influencing a movie's revenue, including aspects 
+such as cast, crew, genre, budget, rating, and release timing.
+- Developed predictive models based on historical revenue data to estimate a movie's potential 
+earnings, providing valuable guidance to movie studios for budget planning and enabling movie 
+theaters to project their revenue for specific film screenings.
+

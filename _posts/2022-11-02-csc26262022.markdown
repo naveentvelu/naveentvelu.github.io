@@ -4,9 +4,11 @@ title:  "Improved Search Heuristics via Imitation Learning"
 date:   2022-11-02 21:21:53 +00:00
 image: /images/csc2626.png
 categories: project
-authors: "<strong>Naveen Thangavelu</strong>, Adeem Jassan, Mahesh Jayasanka"
+authors: "<strong>Naveen Thangavelu</strong>, Adeem Jassani, Mahesh Jayasankar"
 course: "CSC2626: Imitation Learning for Robotics"
+venue: "University of Toronto"
 paper: "/pdfs/csc2626.pdf"
+code: https://github.com/naveentvelu/SaIL
 ---
 - Researched and developed strategies for enhancing search efficiency in tree-based navigation, 
 a pivotal aspect of robotics motion planning.

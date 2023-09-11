@@ -6,6 +6,7 @@ image: /images/csc2516.png
 categories: project
 authors: "<strong>Naveen Thangavelu</strong>, Gurman Bhullar, Rajesh Marudhachalam"
 course: "CSC2516: Neural Networks and Deep Learning"
+venue: "University of Toronto"
 paper: "/pdfs/csc2516.pdf"
 ---
 - Researched automatic colorization, a field with broad applications, including B&W photo 
