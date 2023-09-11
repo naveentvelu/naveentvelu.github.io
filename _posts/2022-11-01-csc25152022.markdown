@@ -7,7 +7,7 @@ categories: project
 authors: "<strong>Naveen Thangavelu</strong>, Adeem Jassani, Anusha Prabhudev, Apoorv Dankar"
 course: "CSC2515: Introduction to Machine Learning"
 venue: "University of Toronto"
-paper: "/pdfs/csc2515.pdf"
+report: "/pdfs/csc2515.pdf"
 ---
 - Investigated tree-based models from two angles: hyperparameter tuning techniques and categorical 
 feature encoding strategies.

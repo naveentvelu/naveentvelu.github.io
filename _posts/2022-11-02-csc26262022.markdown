@@ -7,7 +7,7 @@ categories: project
 authors: "<strong>Naveen Thangavelu</strong>, Adeem Jassani, Mahesh Jayasankar"
 course: "CSC2626: Imitation Learning for Robotics"
 venue: "University of Toronto"
-paper: "/pdfs/csc2626.pdf"
+report: "/pdfs/csc2626.pdf"
 code: https://github.com/naveentvelu/SaIL
 ---
 - Researched and developed strategies for enhancing search efficiency in tree-based navigation, 
